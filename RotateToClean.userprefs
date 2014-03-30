@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Ball.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Puller.cs" Line="16" Column="3" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="37" Column="67" />
+      <File FileName="Assets/Scripts/WorldController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Tags.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BallLayer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
